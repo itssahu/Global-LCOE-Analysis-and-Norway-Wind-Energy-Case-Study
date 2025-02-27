@@ -91,17 +91,23 @@ This project provides a comprehensive analysis of the **Levelized Cost of Electr
 
 ### ✅ **LCOE Data Processing and Quality Assurance**
 ✔ Collected, cleaned, and validated **global LCOE data** from the **World Bank database**.
+
 ✔ Ensured **data consistency** and removed inconsistencies across different wind technologies.
+
 ✔ Conducted **full-scale statistical analysis and visual representation** of LCOE trends.
 
 ### ✅ **Research on Policies and Financing Assumptions**
 ✔ Analyzed the **impact of global financing regulations and discount rates** on LCOE.
+
 ✔ Conducted **Norway-specific policy analysis**, evaluating **subsidies, taxation, and investment conditions**.
+
 ✔ Identified key **financial and regulatory barriers** affecting LCOE.
 
 ### ✅ **LCOE Reporting and Visualization**
 ✔ Developed **multiple visualizations (boxplots, scatter plots, line charts) for LCOE trends**.
+
 ✔ Created a **detailed case study report on Norway**, including policy-driven LCOE adjustments.
+
 ✔ Provided **clear and actionable recommendations** tailored for policymakers and stakeholders.
 
 ---
