@@ -21,7 +21,7 @@ This project provides a comprehensive analysis of the **Levelized Cost of Electr
 ---
 
 ## **2. Key Findings from LCOE Analysis for Wind Onshore and Offshore**
-
+{WON-357 -> Wind Onshore with 3%, 5%, 7% discount rate , WOF-4610 -> Wind Offshore with 4%, 6%, 10% discount rate and so on ..}
 ### **LCOE Comparison (Boxplot Analysis)**
 - **Onshore wind has a lower and stable LCOE**, making it more cost-competitive.
 - **Offshore wind shows greater cost variability**, with some cases exceeding **$250/MWh**.
