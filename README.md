@@ -68,8 +68,8 @@ This project provides a comprehensive analysis of the **Levelized Cost of Electr
 - **Onshore wind LCOE rose from $60–70/MWh to $120–180/MWh** due to taxation.
 - **Offshore wind expected LCOE reductions but instead increased to $250–350/MWh** due to high O&M costs.
 - **Deep-water offshore wind projects face the highest LCOE values, exceeding $600/MWh**.
-  ![box](https://github.com/user-attachments/assets/db10fabc-1ce6-406a-8d67-c427ab4f8ddf)
-  ![kde](https://github.com/user-attachments/assets/9d9f19e4-ca0f-4ad7-abae-8bee39b7a3cf)
+  ![boxnew](https://github.com/user-attachments/assets/c7bb5284-4a66-49a4-9e37-b2c03a111c56)
+  ![kdenew](https://github.com/user-attachments/assets/eb37a1a7-ccec-4478-9da7-19ed27c7b307)
 
 ### **Key Policy Issues Impacting LCOE in Norway**
 - **High Taxation on Onshore Wind:** 25% resource rent tax discourages investments.
